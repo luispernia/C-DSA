@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-using namespace std;
-
 void foo(int n, int sum)
 
 {
